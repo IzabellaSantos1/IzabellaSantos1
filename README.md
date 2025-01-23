@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenv.+de+Software+;Apaixonada+em+aprender+coisas+novas)](https://git.io/typing-svg)
+
 **🚀 Desenvolvedora de Software | Entusiasta da Tecnologia**
 
 Olá! Eu sou **Izabella**, uma apaixonada por codificação e inovação. Sou iniciante em desenvolvimento de software, adoro enfrentar desafios complexos e transformar ideias em soluções reais.
