@@ -13,6 +13,7 @@ Olá! Eu sou **Izabella**, uma apaixonada por codificação e inovação. Sou in
 ## 🔗 Links Importantes:
 
 [LinkedIn](www.linkedin.com/in/izabella-santos-7ba7872a2)
+
 [Projeto](https://izabellasantos1.github.io/Interface-Web-Bootstrap/)
 
 
